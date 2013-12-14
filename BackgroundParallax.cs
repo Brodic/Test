@@ -3,6 +3,7 @@ using System.Collections;
 
 public class BackgroundParallax : MonoBehaviour
 {
+	//dsadsadasdasdassada
 	public Transform[] backgrounds;				// Array of all the backgrounds to be parallaxed.
 	public float parallaxScale;					// The proportion of the camera's movement to move the backgrounds by.
 	public float parallaxReductionFactor;		// How much less each successive layer should parallax.
